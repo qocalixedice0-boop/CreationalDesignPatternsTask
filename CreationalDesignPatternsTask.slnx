@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CreationalDesignPatternsTask/AbstractFactory.csproj" />
+  <Project Path="FactoryMethod/FactoryMethod.csproj" />
+  <Project Path="Prototype/Prototype.csproj" />
+  <Project Path="Singleton/Singleton.csproj" />
+  <Project Path="uilder/Builder.csproj" />
+</Solution>
